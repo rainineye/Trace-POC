@@ -12,7 +12,7 @@ Claims get buried in narrative. Evidence scatters across sources. Articles go st
 
 **The thesis:** For disputed claims, AI cannot be its own judge. What's needed is structured, multi-angle evidence — including contributions from people holding non-public information that no crawler can reach. Those receipts stop being isolated anecdotes; they become attachable, challengeable inputs that complete evidence chains and push contested claims toward convergence.
 
-Exhibit, not verify. Narrative is linear; knowledge is not. When underlying claims become simultaneously visible from multiple angles, the frame collapses on its own.
+**Exhibit, not verify.** Narrative is linear; knowledge is not. When underlying claims become simultaneously visible from multiple angles, the frame collapses on its own.
 
 - You encounter a source → Trace surfaces the claims inside it
 - Each claim becomes inspectable, challengeable, and continuously updateable
