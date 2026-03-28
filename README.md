@@ -12,6 +12,8 @@ Claims get buried in narrative. Evidence scatters across sources. Articles go st
 
 **The thesis:** For disputed claims, AI cannot be its own judge. What's needed is structured, multi-angle evidence — including contributions from people holding non-public information that no crawler can reach. Those receipts stop being isolated anecdotes; they become attachable, challengeable inputs that complete evidence chains and push contested claims toward convergence.
 
+**The mechanism is exhibit, not verify.** Narrative framing is linear. A knowledge network is not — and that structural difference is what does the deframing. When the claims beneath a narrative become visible from multiple angles simultaneously, the frame collapses on its own.
+
 - You encounter a source → Trace surfaces the claims inside it
 - Each claim becomes inspectable, challengeable, and continuously updateable
 - Anyone holding relevant evidence — including private receipts — can contribute directly
@@ -99,7 +101,7 @@ The codebase will be made available at a later stage. What you see here is a pre
 
 If you'd like to see the POC in action, have a collaboration inquiry, or want to discuss the evidence graph approach — **reach out directly:**
 
-→ [Open a conversation via GitHub Issues](https://github.com/rainineye/Trace-POC/issues/new) or DM [@rainineye](https://github.com/rainineye)
+✈️ [@rainineye](https://t.me/rainineye) on Telegram
 
 ---
 
