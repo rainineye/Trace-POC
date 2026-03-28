@@ -8,18 +8,18 @@
 
 Trace is a claim-and-evidence layer for high-velocity, contested public information.
 
-Claims get buried in narrative. Evidence scatters across sources. Articles go static while reality keeps moving. Trace extracts falsifiable claims from any source — tweet, article, filing, thread — structures multi-perspective evidence around each, and maintains a live understanding that updates as new evidence arrives.
+Claims are buried in narrative. Evidence is scattered across sources. Articles freeze while reality keeps moving. Trace extracts falsifiable claims from any source — a tweet, article, filing, or thread — structures evidence around each, and maintains a live understanding that updates as new evidence arrives.
 
-**The thesis:** For disputed claims, AI cannot be its own judge. What's needed is structured, multi-angle evidence — including contributions from people holding non-public information that no crawler can reach. Those receipts stop being isolated anecdotes; they become attachable, challengeable inputs that complete evidence chains and push contested claims toward convergence.
+**The core thesis is simple:** for disputed claims, AI cannot be its own judge. What matters is structured evidence from multiple angles, including private receipts no crawler can reach. Trace turns those receipts from isolated anecdotes into attachable, challengeable evidence that fills missing links and helps claims converge.
 
-**Exhibit, not verify.** Narrative is linear; knowledge is not. When underlying claims become simultaneously visible from multiple angles, the frame collapses on its own.
+**Exhibit, not verify.** Narrative is linear; knowledge is not. Once underlying claims are visible from multiple angles at the same time, the frame collapses on its own.
 
 - You encounter a source → Trace surfaces the claims inside it
 - Each claim becomes inspectable, challengeable, and continuously updateable
-- Anyone holding relevant evidence — including private receipts — can contribute directly
+- Relevant evidence — public or private — can be contributed directly
 - Over time, claims accumulate into a reusable knowledge network
 
-**One-line:** Trace converts fast-moving public information into living knowledge objects — where decentralized participants bring private receipts into the evidence graph and drive contested claims toward convergence.
+**One-line:** Trace converts fast-moving public information into living knowledge objects that remain auditable, contributable, and continuously updateable.
 
 ---
 
