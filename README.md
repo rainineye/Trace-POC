@@ -6,18 +6,18 @@
 
 ## What is Trace?
 
-Trace is a **claim-and-evidence layer** for high-velocity, contested public information.
+Trace is a claim-and-evidence layer for high-velocity, contested public information.
 
-The problem it solves: claims are buried inside narrative, evidence is scattered across many sources, and articles stay static while reality keeps moving. Trace extracts the falsifiable claims inside any source — a tweet, article, filing, or thread — structures multi-perspective evidence around each one, and keeps a live "current understanding" that updates as new evidence arrives.
+Claims get buried in narrative. Evidence scatters across sources. Articles go static while reality keeps moving. Trace extracts falsifiable claims from any source — tweet, article, filing, thread — structures multi-perspective evidence around each, and maintains a live understanding that updates as new evidence arrives.
 
-In plain terms:
+**The thesis:** For disputed claims, AI cannot be its own judge. What's needed is structured, multi-angle evidence — including contributions from people holding non-public information that no crawler can reach. Those receipts stop being isolated anecdotes; they become attachable, challengeable inputs that complete evidence chains and push contested claims toward convergence.
 
-1. You encounter a source (post, article, report)
-2. Trace exposes the claims inside it
-3. Each claim becomes **inspectable**, **challengeable**, and **continuously updateable**
-4. Over time, those claims accumulate into a reusable knowledge network
+- You encounter a source → Trace surfaces the claims inside it
+- Each claim becomes inspectable, challengeable, and continuously updateable
+- Anyone holding relevant evidence — including private receipts — can contribute directly
+- Over time, claims accumulate into a reusable knowledge network
 
-**One-line definition:** Trace converts fast-moving public information into auditable, contributable, continuously updated knowledge objects.
+**One-line:** Trace converts fast-moving public information into living knowledge objects — where decentralized participants bring private receipts into the evidence graph and drive contested claims toward convergence.
 
 ---
 
